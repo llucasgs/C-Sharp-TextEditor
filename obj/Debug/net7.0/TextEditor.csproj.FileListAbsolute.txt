@@ -1,0 +1,15 @@
+C:\programacao\balta\TextEditor\bin\Debug\net7.0\TextEditor.exe
+C:\programacao\balta\TextEditor\bin\Debug\net7.0\TextEditor.deps.json
+C:\programacao\balta\TextEditor\bin\Debug\net7.0\TextEditor.runtimeconfig.json
+C:\programacao\balta\TextEditor\bin\Debug\net7.0\TextEditor.dll
+C:\programacao\balta\TextEditor\bin\Debug\net7.0\TextEditor.pdb
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\TextEditor.csproj.AssemblyReference.cache
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfoInputs.cache
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\TextEditor.AssemblyInfo.cs
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\TextEditor.dll
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\refint\TextEditor.dll
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\TextEditor.pdb
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\TextEditor.genruntimeconfig.cache
+C:\programacao\balta\TextEditor\obj\Debug\net7.0\ref\TextEditor.dll
